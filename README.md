@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ___
 ### About Me 🧑‍💻
 
-As a Software Engineer at Oracle, I am driven by a passion for technology, creativity, and delivering impactful solutions. I thrive on exploring new technologies and frameworks, and my goal is to use my skills to contribute to innovative projects within the tech industry. Committed to lifelong learning, collaboration, and creativity, I’m eager to connect with like-minded professionals and explore the endless possibilities this dynamic field offers
+As a **Software Engineer at Oracle**, I am driven by a passion for technology, creativity, and delivering impactful solutions. I thrive on exploring new technologies and frameworks, and my goal is to use my skills to contribute to innovative projects within the tech industry. Committed to lifelong learning, collaboration, and creativity, I’m eager to connect with like-minded professionals and explore the endless possibilities this dynamic field offers
 ___
 ### Education 🎓 
 
@@ -41,6 +41,14 @@ Aug 2019 - Present
 - Develop existing programs by analysing and identifying areas for modification.
 - Testing software and fixing problems from production environment.
 
+___
+## Skills
+- **Language:** C | C++ | Java | Python | SQL | NoSQL |Postgresql | HTML | CSS | JavaScript
+- **Frameworks:** .NET | Node.js | Express.js
+- **Development Tools:** Git | VS Code | Intellij | Oracle Cloud Platform
+- **Libraries:** ReactJS | Bootstrap | Tailwind | OpenCV | Pandas | NumPy | MatplotLib
+- **Soft Skills:** Team oriented | Resolute | Bias for action | Deliver results
+- **Others:** Data Structure and Algorithms, Operating System, Object Oriented Designs & Programming, Computer Networks, Database Management System (Relational Database),   Machine Learning
 ___
 ## Certification 📜
 
