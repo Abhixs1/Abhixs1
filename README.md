@@ -42,29 +42,28 @@ Aug 2019 - Present
 - Testing software and fixing problems from production environment.
 
 ___
-## Skills
-## 💼 Skills
+### Skills 💼
 
-### 🖥️ **Languages**
+#### 🖥️ **Languages**
 - C | C++ | Java | Python | SQL | NoSQL | PostgreSQL | HTML | CSS | JavaScript
 
-### 🔧 **Frameworks**
+#### 🔧 **Frameworks**
 - .NET | Node.js | Express.js
 
-### 🛠️ **Development Tools**
+#### 🛠️ **Development Tools**
 - Git | VS Code | IntelliJ | Oracle Cloud Platform
 
-### 📚 **Libraries**
+#### 📚 **Libraries**
 - ReactJS | Bootstrap | Tailwind | OpenCV | Pandas | NumPy | Matplotlib
 
-### 🤝 **Soft Skills**
+#### 🤝 **Soft Skills**
 - Team-Oriented | Resolute | Bias for Action | Deliver Results
 
-### 🧠 **Others**
+#### 🧠 **Others**
 - Data Structures & Algorithms | Operating Systems | Object-Oriented Design & Programming | Computer Networks | Database Management Systems (Relational Databases) | Machine Learning
 
 ___
-## Certification 📜
+### Certification 📜
 
 1. **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCC36F0C762069472A2E94A51D03041648156E14D29F676836D63C3D8B5A7103)**
    
