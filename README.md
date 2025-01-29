@@ -34,15 +34,11 @@ ___
 [Oracle](https://www.oracle.com) [Associate Consultant]
 
 Aug 2019 - Present
-- Improved and enhanced existing codebases, resulting in faster loading time for key features by 30%
+- Improved and enhanced existing codebases, resulting in faster loading time for key features by 30%.
 - Write and test code, refining and rewriting it as necessary, while collaborating with other programmers involved in the project.
 - Develop existing programs by analysing and identifying areas for modification.
 - Testing software and fixing problems from production environment.
 
-Comsoft Technologies - MERN Stack Intern
-
-Aug 2022 - Sep 2022
-- 
 ___
 ## Certification 📜
 
