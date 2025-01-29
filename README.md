@@ -48,12 +48,12 @@ ___
 
 1. **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCC36F0C762069472A2E94A51D03041648156E14D29F676836D63C3D8B5A7103)**
    
-Issued by: [Oracle](https://www.oracle.com)
+     Issued by: [Oracle](https://www.oracle.com)
 
 3. **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C957EEDE5A82E640C5D33E7C3FB4BB2AD981C2AA2E1951D5610AEFF2D48FC10)**
    
-Issued by: [Oracle](https://www.oracle.com)
+    Issued by: [Oracle](https://www.oracle.com)
 
 5. **[Oracle Cloud Infrastructure 2023 Certified Architect Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF0C6750C94393B5AD3A81D3484EF3B22A3F866E2716BACC74B96FA680D44C88)**
    
-Issued by: [Oracle](https://www.oracle.com)
+    Issued by: [Oracle](https://www.oracle.com)
