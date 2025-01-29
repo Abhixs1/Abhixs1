@@ -44,22 +44,22 @@ Aug 2019 - Present
 ___
 ### Skills 💼
 
-#### 🖥️ **Languages**
+#### **Languages** 🖥️
 - C | C++ | Java | Python | SQL | NoSQL | PostgreSQL | HTML | CSS | JavaScript
 
-#### 🔧 **Frameworks**
+#### **Frameworks** 🔧
 - .NET | Node.js | Express.js
 
-#### 🛠️ **Development Tools**
+#### **Development Tools** 🛠️
 - Git | VS Code | IntelliJ | Oracle Cloud Platform
 
-#### 📚 **Libraries**
+#### **Libraries** 📚
 - ReactJS | Bootstrap | Tailwind | OpenCV | Pandas | NumPy | Matplotlib
 
-#### 🤝 **Soft Skills**
+#### **Soft Skills** 🤝
 - Team-Oriented | Resolute | Bias for Action | Deliver Results
 
-#### 🧠 **Others**
+#### **Others** 🧠
 - Data Structures & Algorithms | Operating Systems | Object-Oriented Design & Programming | Computer Networks | Database Management Systems (Relational Databases) | Machine Learning
 
 ___
