@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 ___
 ### About Me 🚀
-Software Engineer at Oracle with a passion for technology, driven by creativity and a focus on delivering impactful solutions.
-
-I’m passionate about exploring new technologies and frameworks, and my goal is to leverage my skills to contribute to innovative and impactful projects within the tech industry. I believe in the power of lifelong learning, collaboration, and creativity, and I’m excited to connect with like-minded individuals to explore the endless opportunities this dynamic field offers.
+As a Software Engineer at Oracle, I am driven by a passion for technology, creativity, and delivering impactful solutions. I thrive on exploring new technologies and frameworks, and my goal is to use my skills to contribute to innovative projects within the tech industry. Committed to lifelong learning, collaboration, and creativity, I’m eager to connect with like-minded professionals and explore the endless possibilities this dynamic field offers
 
 ### Professional Experience
 [Oracle](https://www.oracle.com)
+
 Aug 2019 - Present
 - Write and test code, refining and rewriting it as necessary, while collaborating with other programmers involved in the project.
