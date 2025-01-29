@@ -43,12 +43,26 @@ Aug 2019 - Present
 
 ___
 ## Skills
-- **Language:** C | C++ | Java | Python | SQL | NoSQL |Postgresql | HTML | CSS | JavaScript
-- **Frameworks:** .NET | Node.js | Express.js
-- **Development Tools:** Git | VS Code | Intellij | Oracle Cloud Platform
-- **Libraries:** ReactJS | Bootstrap | Tailwind | OpenCV | Pandas | NumPy | MatplotLib
-- **Soft Skills:** Team oriented | Resolute | Bias for action | Deliver results
-- **Others:** Data Structure and Algorithms, Operating System, Object Oriented Designs & Programming, Computer Networks, Database Management System (Relational Database),   Machine Learning
+## 💼 Skills
+
+### 🖥️ **Languages**
+- C | C++ | Java | Python | SQL | NoSQL | PostgreSQL | HTML | CSS | JavaScript
+
+### 🔧 **Frameworks**
+- .NET | Node.js | Express.js
+
+### 🛠️ **Development Tools**
+- Git | VS Code | IntelliJ | Oracle Cloud Platform
+
+### 📚 **Libraries**
+- ReactJS | Bootstrap | Tailwind | OpenCV | Pandas | NumPy | Matplotlib
+
+### 🤝 **Soft Skills**
+- Team-Oriented | Resolute | Bias for Action | Deliver Results
+
+### 🧠 **Others**
+- Data Structures & Algorithms | Operating Systems | Object-Oriented Design & Programming | Computer Networks | Database Management Systems (Relational Databases) | Machine Learning
+
 ___
 ## Certification 📜
 
