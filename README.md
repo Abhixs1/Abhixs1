@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
 ### About Me 🚀
-Software Engineer passionate about Technology, Driven by Creativity and Impactful Solutions.
+Software Engineer at Oracle with a passion for technology, driven by creativity and a focus on delivering impactful solutions.
