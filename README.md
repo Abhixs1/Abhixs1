@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Abhishek Kumar.
+<p align="center">
+  ## Hi there 👋, I'm Abhishek Kumar.
+</p>
 
 <!--
 **Abhixs1/Abhixs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ___
-### About Me 🚀
+### About Me 🧑‍💻
 
 As a Software Engineer at Oracle, I am driven by a passion for technology, creativity, and delivering impactful solutions. I thrive on exploring new technologies and frameworks, and my goal is to use my skills to contribute to innovative projects within the tech industry. Committed to lifelong learning, collaboration, and creativity, I’m eager to connect with like-minded professionals and explore the endless possibilities this dynamic field offers
 ___
