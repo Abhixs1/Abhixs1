@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 ___
 ### About Me 🚀
 As a Software Engineer at Oracle, I am driven by a passion for technology, creativity, and delivering impactful solutions. I thrive on exploring new technologies and frameworks, and my goal is to use my skills to contribute to innovative projects within the tech industry. Committed to lifelong learning, collaboration, and creativity, I’m eager to connect with like-minded professionals and explore the endless possibilities this dynamic field offers
-
+___
 ### Education 🎓 
 Bangalore Institute of Technology - B.E in Electronics and Telecommunication Engineering 
+
 08/2019 - 06/2023
 
 D.A.V Punlic School - PCM
-04/2018 - 03/2019
 
+04/2018 - 03/2019
+___
 ### Professional Experience 💼 
 [Oracle](https://www.oracle.com) [Associate Consultant]
 Aug 2019 - Present
@@ -36,7 +38,7 @@ Aug 2019 - Present
 Comsoft Technologies - MERN Stack Intern
 Aug 2022 - Sep 2022
 - 
-
+___
 ## Certification 📜
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCC36F0C762069472A2E94A51D03041648156E14D29F676836D63C3D8B5A7103)
 Issued by: [Oracle](https://www.oracle.com)
