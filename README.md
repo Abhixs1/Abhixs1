@@ -25,7 +25,7 @@ Bangalore Institute of Technology - B.E in Electronics and Telecommunication Eng
 
 08/2019 - 06/2023
 
-D.A.V Punlic School - PCM
+D.A.V Public School - PCM
 
 04/2018 - 03/2019
 ___
