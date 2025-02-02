@@ -43,7 +43,7 @@ ___
 ### Skills 💼
 
 #### **Languages** 🖥️
-- C | C++ | Java | Python | SQL | NoSQL | PostgreSQL | HTML | CSS | JavaScript
+- Groovy | C | C++ | Java | Python | SQL | NoSQL | PostgreSQL | HTML | CSS | JavaScript
 
 #### **Frameworks** 🔧
 - .NET | Node.js | Express.js
