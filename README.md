@@ -26,10 +26,6 @@ ___
 Bangalore Institute of Technology - B.E in Electronics and Telecommunication Engineering 
 
 08/2019 - 06/2023
-
-D.A.V Public School - PCM
-
-04/2018 - 03/2019
 ___
 ### Professional Experience 💼 
 
