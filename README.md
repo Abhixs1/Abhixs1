@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Abhishek Kumar.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi+there+👋%2C+I'm+Abhishek+Kumar." alt="Typing SVG" />
+</p>
 
 <!--
 **Abhixs1/Abhixs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
