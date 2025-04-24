@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi+there+👋%2C+I'm+Abhishek+Kumar." alt="Typing SVG" />
+  <img src="https://svg-badge.vercel.app/api?type=typing&text=Hi%20there%20👋,%20I'm%20Abhishek%20Kumar.&animation=rainbow" alt="Animated Text Rainbow" />
 </p>
 
 <!--
